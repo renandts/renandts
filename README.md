@@ -13,12 +13,11 @@ Estou me desenvolvendo como Dev FrontEnd, estudando e criando projetos <br> com 
 <br>
 
 Contato:
+<br>
 <a href="https://www.linkedin.com/in/renan-dantas-a66b4919b">
   <img  alt="LinkedIn" width="50px" src="https://img.icons8.com/color/48/null/linkedin.png" />
 </a>
 
-<br>
-<br>
 <br>
 
 [![Renan Dantas github stats](https://github-readme-stats.vercel.app/api?username=renandts&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
