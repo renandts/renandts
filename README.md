@@ -14,7 +14,7 @@ Estou me desenvolvendo como Dev FrontEnd, estudando e criando projetos <br> com 
 
 Contato:
 <br>
-<a href="https://www.linkedin.com/in/renan-dantas-a66b4919b">
+<a href="www.linkedin.com/in/renan-dantas22">
   <img  alt="LinkedIn" width="50px" src="https://img.icons8.com/color/48/null/linkedin.png" />
 </a>
 
