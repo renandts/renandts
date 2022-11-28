@@ -1,16 +1,32 @@
-### Hi there 👋
+### Olá seja bem vindo! :smiley:
+<br>
 
-<!--
-**renandts/renandts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou <b>Renan Dantas</b>, <br>
+Estou me desenvolvendo como Dev FrontEnd, estudando e criando projetos <br> com as seguintes tecnologias:
 
-Here are some ideas to get you started:
+<p>
+<img src="https://img.icons8.com/color/48/null/html-5--v1.png" alt="html5"/>
+<img src="https://img.icons8.com/color/48/null/css3.png"alt="css"/>
+<img src="https://img.icons8.com/color/48/null/javascript--v1.png"alt="javascript"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+Contato:
+<a href="https://www.linkedin.com/in/renan-dantas-a66b4919b">
+  <img  alt="LinkedIn" width="50px" src="https://img.icons8.com/color/48/null/linkedin.png" />
+</a>
+
+<br>
+<br>
+<br>
+
+[![Renan Dantas github stats](https://github-readme-stats.vercel.app/api?username=renandts&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renandts&layout=compact&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
+
+
+
+
+
