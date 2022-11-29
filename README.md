@@ -1,4 +1,4 @@
-### Olá seja bem vindo! :smiley:
+### Hi Welcome! :smiley:
 <br>
 
 Eu sou <b>Renan Dantas</b>, <br>
