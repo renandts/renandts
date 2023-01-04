@@ -1,4 +1,4 @@
-### Hi welcome,
+### Olá seja bem-vindo(a),
 <br>
 
 Eu sou <b>Renan Dantas</b>, <br>
@@ -7,7 +7,7 @@ me desenvolvolvendo na área de programação como <b>Desenvolvedor FullStack </
 estudando e criando projetos  com as seguintes tecnologias:
 <br>
 <p>
-<img src="https://img.icons8.com/color/48/null/html-5--v1.png" alt="html5"/>
+<img widt="100px" src="https://img.icons8.com/color/48/null/html-5--v1.png" alt="html5"/>
 <img src="https://img.icons8.com/color/48/null/css3.png"alt="css"/>
 <img src="https://img.icons8.com/color/48/null/javascript--v1.png"alt="javascript"/>
 <img src="https://img.icons8.com/office/40/null/react.png"/>
